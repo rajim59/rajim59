@@ -19,7 +19,10 @@ While I have deep expertise in **Google Cloud Platform (GCP)**, my engineering p
 | **Cloud & Container** | Google Cloud (GCP), Docker, Kubernetes |
 | **IaC & Tools** | Terraform, Git, Linux |
 | **Databases** | PostgreSQL, Redis, Firestore |
-
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajim59&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Rajim's GitHub Stats" />
+</p>
 ---
 
 📫 **Let's Connect:** info.mdmehmedalhasan@gmail.com
