@@ -23,6 +23,7 @@ While I have deep expertise in **Google Cloud Platform (GCP)**, my engineering p
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajim59&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Rajim's GitHub Stats" />
 </p>
+
 ### ⚡ Tech Stack Breakdown
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajim59&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Rajim's Top Languages" />
