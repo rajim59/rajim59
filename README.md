@@ -15,7 +15,7 @@ While I have deep expertise in **Google Cloud Platform (GCP)**, my engineering p
 ### 💻 Tech Stack
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | Go, Python, Solidity, TypeScript |
+| **Languages** | Go, Python, TypeScript |
 | **Cloud & Container** | Google Cloud (GCP), Docker, Kubernetes |
 | **IaC & Tools** | Terraform, Git, Linux |
 | **Databases** | PostgreSQL, Redis, Firestore |
