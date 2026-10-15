@@ -1,33 +1,82 @@
-### Hi, I'm Rajim.
+# Hi, I'm Rajim 👋
 
-I am a **Cloud Engineer** focusing on infrastructure automation and backend scalability. I turn complex architectural problems into simple, maintainable code.
+### ☁️ Cloud Engineer | Microsoft Azure | Infrastructure as Code | Cloud Security
 
-While I have deep expertise in **Google Cloud Platform (GCP)**, my engineering principles allow me to design agnostic solutions that work across any environment. I believe in writing code that is clean, documented, and efficient.
+I'm a Software Engineering student focused on **Microsoft Azure, cloud infrastructure, and automation**. I enjoy designing secure, scalable, and maintainable cloud environments while solving real-world infrastructure challenges through practical engineering.
+
+My current focus is building a strong foundation in **Azure cloud architecture, networking, Infrastructure as Code (IaC), Linux-based systems, and DevSecOps**. I believe reliable cloud infrastructure starts with thoughtful architecture, automation, security, and continuous learning.
+
+I turn cloud concepts into hands-on projects to strengthen my engineering skills and build solutions that are practical, secure, and easy to maintain.
 
 ---
 
-### 🛠 What I Do
-* **Cloud Architecture:** Designing production-grade systems on GCP (Compute Engine, GKE, Cloud Run).
-* **Infrastructure as Code:** Automating deployments using Terraform and Ansible.
-* **Backend Engineering:** Building high-performance microservices with Go and Python.
-* **DevOps:** Implementing CI/CD pipelines (GitHub Actions) to streamline workflows.
+## 🚀 What I'm Focused On
 
-### 💻 Tech Stack
+- ☁️ **Microsoft Azure:** Cloud infrastructure, networking, and architecture.
+- 🏗️ **Infrastructure as Code:** Automating and managing infrastructure with Terraform.
+- 🔐 **Cloud Security & DevSecOps:** Exploring security-focused infrastructure design and secure deployment practices.
+- 🌐 **Azure Networking:** Working with Azure Load Balancer, Application Gateway/WAF, Azure Front Door, and Traffic Manager.
+- 🐧 **Linux & Automation:** Working with Linux-based environments and infrastructure workflows.
+- ⚙️ **DevOps & Containers:** Exploring CI/CD pipelines, Docker, and container orchestration.
+
+---
+
+## 🛠️ Tech Stack
+
 | Category | Technologies |
-|----------|--------------|
-| **Languages** | Go, Python, TypeScript |
-| **Cloud & Container** | Google Cloud (GCP), Docker, Kubernetes |
-| **IaC & Tools** | Terraform, Git, Linux |
-| **Databases** | PostgreSQL, Redis, Firestore |
-### 📊 GitHub Analytics
+|---|---|
+| **Cloud Platform** | Microsoft Azure |
+| **Cloud Networking** | Azure Load Balancer, Application Gateway/WAF, Azure Front Door, Traffic Manager |
+| **Infrastructure as Code** | Terraform |
+| **Operating Systems** | Linux |
+| **Containers & DevOps** | Docker, Docker Swarm, CI/CD |
+| **Version Control** | Git, GitHub |
+| **Security** | Cloud Security, DevSecOps |
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Azure Landing Zone**  
+Exploring structured Azure infrastructure design and foundational cloud environment setup.
+
+🔹 **Multi-Tier Web Application on Azure**  
+Building an understanding of multi-tier architecture, cloud networking, and application infrastructure on Microsoft Azure.
+
+🔹 **SwarmFort**  
+A container-focused project exploring deployment, orchestration, and infrastructure security concepts.
+
+🔹 **Campus Lost & Found**  
+A software project focused on solving a practical campus-related problem through application development.
+
+> Explore my repositories to see the implementation details, architecture, and progress of my projects.
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajim59&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Rajim's GitHub Stats" />
 </p>
 
-### ⚡ Tech Stack Breakdown
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajim59&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Rajim's Top Languages" />
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajim59&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Rajim's Most Used Languages" />
 </p>
+
 ---
 
-📫 **Let's Connect:** info.mdmehmedalhasan@gmail.com
+## 🎯 My Goal
+
+I'm continuously improving my cloud engineering skills through hands-on projects, experimentation, and structured learning. My long-term ambition is to contribute to meaningful deep-tech innovation and eventually build **Dhrubo AI LLC**, focused on AI-driven solutions.
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** info.mdmehmedalhasan@gmail.com
+
+💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
+
+⭐ *I'm always learning, building, and exploring better ways to design secure and reliable cloud infrastructure.*
